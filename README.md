@@ -24,7 +24,7 @@ Quando il motore predittivo rileva un'anomalia clinica reale incrociando i param
 
 ## 📄 Documentazione Accademica
 Il razionale teorico, lo studio delle Personas, le mitigazioni dell'Audit e le scelte ergonomiche dettagliate sono disponibili nella presentazione completa del progetto:
-**[➡️ Scarica o visualizza la presentazione del progetto (PDF)]([SCRIVI-QUI-IL-NOME-DEL-TUO-PDF.pdf])**
+**[➡️ Scarica o visualizza la presentazione del progetto (PDF)](Monitor Multiparametrico Intelligente - AI Medical Style.pdf)**
 
 ## 👥 Il Team
 Progetto sviluppato per il corso di *HMI for Digital Application* (Università degli Studi di Modena e Reggio Emilia) da:
