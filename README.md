@@ -15,7 +15,7 @@ Questo progetto propone un Monitor Multiparametrico Intelligente capace di passa
 ### L'Intelligenza Artificiale in Azione (Focus Mode)
 Quando il motore predittivo rileva un'anomalia clinica reale incrociando i parametri con la cartella clinica, l'HMI applica il concetto di *Variabilità Interazionale*: nasconde i dati secondari ed esalta i parametri in pericolo, fornendo una diagnosi in linguaggio naturale (Explainable AI).
 
-![Demo AI](scenario-emergenza.gif)
+![Demo AI](allarme classico_9F75B595-191D-4841-9A44-0CB412BAB423-2.gif)
 
 ### ⚙️ Core Features & Engineering Principles
 *    **Spatial Organization & Gestalt:** Il layout adotta un'architettura modulare a corsie orizzontali ("Swimlane"). Questo accoppiamento funzionale tra onda morfologica e valore numerico abbatte il rischio di errori di lettura incrociata, rispettando i limiti della memoria a breve termine (Miller's Law).
