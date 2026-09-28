@@ -1,7 +1,7 @@
 # 🏥 Smart HMI for Intensive Care Units (ICU)
 > Un'interfaccia cooperativa basata sull'Intelligenza Artificiale, progettata per mitigare l'Alarm Fatigue nelle Terapie Intensive attraverso principi di Human-Centered Design.
 
-![Cover HMI]([SCRIVI-QUI-IL-NOME-DELLA-COPERTINA.png])
+![Cover HMI](hero-monitor.png)
 
 ## 📌 Prova il Prototipo
 **[➡️ Clicca qui per testare il prototipo interattivo ad alta fedeltà su Figma]([INCOLLA-QUI-IL-LINK-DI-FIGMA])**
